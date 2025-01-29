@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Bruno, a System Analysis and Development student at UniFACEAR  👨‍💻 </div>  
+### <div align="center">I'm Bruno, a System Analysis and Development student 👨‍💻 </div>  
   
 
 - 🔭 A desktop application for managing Lotofácil lottery bets, built with JavaFX [LotoFacilProject2](https://github.com/rishavanand/github-profilinator)  
