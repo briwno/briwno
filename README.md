@@ -6,14 +6,7 @@
 ### <div align="center">I'm Bruno, a System Analysis and Development student 👨‍💻 </div>  
   
 
-- 🔭 A desktop application for managing Lotofácil lottery bets, built with JavaFX [LotoFacilProject2](https://github.com/rishavanand/github-profilinator)  
-  
 
-- 🌱 I’m currently learning Object-Oriented Programming (OOP) with Java  
-  
-
-- ⚡ Fun fact: I like Pokémon and enjoy creating strategies for battles! 🎮🐾
-  
   
 
 <br/>  
